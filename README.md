@@ -1,6 +1,6 @@
-# GitHub Finder with React Native
+# Meals Finder with React Native
 
-GitHub Finder React Native V1.0.0 using CLI ( Work In Progress )
+Meals Finder React Native V1.0.0 using CLI ( Work In Progress )
 
 ## Overview
 
