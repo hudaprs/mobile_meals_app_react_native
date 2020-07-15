@@ -23,5 +23,5 @@ npm install
 ## Run android
 
 ```
-npm start | expo start
+npm start
 ```
